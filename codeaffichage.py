@@ -7,7 +7,7 @@ def affichage(p):
     tempb = (8 - len(p[1]) )* " "
     print("__________________________________________________________________________________________")
     print("|                                                                                        |")
-    print("|  ",p[0],tempa,"                         | | | | | |                                       |")
+    print("|  ",p[0],tempa,"                      | | | | | |                                       |")
     print("|   score :                             ‾   ‾   ‾                                        |")
     print("|                                      | | | | | |                                       |")
     print("|                                       ‾   ‾   ‾                                        |")
@@ -16,7 +16,7 @@ def affichage(p):
     print("|                                                                                        |")
     print("|                                                                                        |")
     print("|                                                                                        |")
-    print("|  ",p[1],tempb,"                         | | | | | |                                       |")
+    print("|  ",p[1],tempb,"                      | | | | | |                                       |")
     print("|   score :                             ‾   ‾   ‾                                        |")
     print("|                                      | | | | | |                                       |")
     print("|                                       ‾   ‾   ‾                                        |")
